@@ -262,7 +262,7 @@
               "color": "#000"
             },
             ".mbr-section-title": {
-              "color": "#efefef"
+              "color": "#28324e"
             }
           },
           "_tags": [
@@ -276,7 +276,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#28324e",
+            "bgColor": "#cccccc",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -290,7 +290,7 @@
             "showButton": false
           },
           "title": "SO WHAT WILL YOU GET?",
-          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "text": "",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
