@@ -415,6 +415,10 @@ h6,
 #msg-box3-0 p {
   color: #000;
 }
+#msg-box3-0 .mbr-section-title,
+#msg-box3-0 p {
+  color: #000;
+}
 #msg-box3-0 .mbr-section-title {
   color: #28324e;
 }
@@ -432,4 +436,20 @@ h6,
 }
 #features2-0 .mbr-cards-col:nth-child(even) .card-text {
   color: #28324e;
+}
+#msg-box3-1 .mbr-section-title,
+#msg-box3-1 p {
+  color: #000;
+}
+#msg-box3-1 .mbr-section-title {
+  color: #efefef;
+}
+#pricing-table1-5 .mbr-section__container .mbr-section-title {
+  color: #fff;
+}
+#pricing-table1-5 .mbr-section__container .mbr-section-subtitle {
+  color: #a0a0a0;
+}
+#form1-3 .form-control-label {
+  color: #232323;
 }
